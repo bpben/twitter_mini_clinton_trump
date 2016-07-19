@@ -4,7 +4,7 @@
 # In[ ]:
 
 #Script for collecting Follower information and ascertaining whether located in Boston
-#Developed by: Ben Batorsky
+#Developed by: bpben
 #Date: 12/28/15
 
 #Requires that you have a twitter API account set up
